@@ -8,4 +8,5 @@ Membuat dataset baru dengan nama dataset_kimia_farma , kemudian mengimport keemp
 2. Tabel Analisa (Datamart)
 Pada proyek ini, diminta untuk membuat tabel analisa berdasarkan hasil aggregasi dari ke-empat tabel yang sudah diimport sebelumnya.untuk membuat tabel Analisa berdasarkan hasil aggregasi dari ke-empat tabel, dilakukan menggunakan Google Bigquery https://github.com/HabibSB/Analisis-Kinerja-Bisnis-Kimia-Farma-2020-2023/blob/main/Query%20Syntax%20PBI%20Kimia%20Farma.sql
 3. Dasboard
-membuat sebuah dashboard analisis kinerja Kimia Farma tahun 2020-2023 di Google Looker Studio. Dashboard ini dibuat berdasarkan tabel analisa yang telah dibuat sebelumnya pada BigQuery(datamart), sehingga  perlu menghubungkan table tersebut ke Google Looker Studio.https://lookerstudio.google.com/u/0/reporting/55758568-499a-4935-b30d-8bb5c3acc1ae
+membuat sebuah dashboard analisis kinerja Kimia Farma tahun 2020-2023 di Google Looker Studio. Dashboard ini dibuat berdasarkan tabel analisa yang telah dibuat sebelumnya pada BigQuery(datamart), sehingga  perlu menghubungkan table tersebut ke Google Looker Studio
+![Screenshot 2024-05-13 174806](https://github.com/HabibSB/Analisis-Kinerja-Bisnis-Kimia-Farma-2020-2023/assets/153071447/95c8668b-5ff0-46d4-a39d-ffc6a823007e)
